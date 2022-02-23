@@ -113,6 +113,12 @@ body{
     margin-left: 5%;
     margin-top:1%;
 }
+.btn-dark {
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+    margin-left: 3%;
+}
 .skil1 {
     width: auto;
     height: 50px;
@@ -146,6 +152,6 @@ body{
 footer{
     width:auto;
     height:30px;
-   
+   margin-top:3% ;
  
 }
